@@ -4,15 +4,15 @@ Nome da Equipe: IoT
 
 Integrantes: 
 
-PHILIPPE AUGUSTO MONTEIRO SILVA - 202203529
-
-JOAO FELIPE PERES LIMA - 
-
 FABRICIO SILVA DIAS - 
 
 FILIPE AUGUSTO LIMA SILVA - 202203508
 
 GUILHERME PEREIRA FERNANDES - 202203510
+
+JOAO FELIPE PERES LIMA - 
+
+PHILIPPE AUGUSTO MONTEIRO SILVA - 202203529
 
 # *Introdução*
 A Internet das Coisas(IoT) ou "Internet of Things" é um conceito abrangente, criado por Kevin Ashton, piorneiro tecnológico britânico, em 1999 e a comunicação entre objetos físicos, por meio da internet, com objetivo de coletar, transmitir ou trocar dados teve início em 1990 por meio da Internet Toaster criada por John Romkey.
@@ -31,19 +31,19 @@ Todo dispositivo conectado à internet está vulnerável a ataques cibernéticos
 * Ataques ao Sistema: Foco em comprometer a integridade do sistema ou sua disponibilidade (Ataque de Negação de Serviço(DoS), Ataques de Força Bruta, Injeção de Código(SQL, XSS)).
 * Ataques a Dispositivo IoT: Foco em ter acesso/controle sobre um dispositivo conectado(Exploração de vulnerabilidade em dispositivo IoT).
 Para lidar com os ataques cibernéticos aliados a vulnerabilidade do sistema, têm-se os seguintes mecanismos:
-## Ataques ao Sistemas
-* Firewalls
-* Sistema de Detecção de Instrusões(IDS)
-* Sistemas de Prevenção de Intrusões
+1. Ataques ao Sistemas
+  * Firewalls
+  * Sistema de Detecção de Instrusões(IDS)
+  * Sistemas de Prevenção de Intrusões
 Esses mecanismo são mais utilizados na tentativa de prevenção dos ataques, atualizações em vulnerabilidades conhecidas e monitoramento  contínuo são também medidas válidas.
-## Ataques por Engenharia Social
-* Filtros de E-mail
-* Software Anti-Virus
+2. Ataques por Engenharia Social
+  * Filtros de E-mail
+  * Software Anti-Virus
 Ressalta-se também o treinamento de usuários para reconhecer e evitar ataques de pishing
-## Ataques a Dispositivos IoT
-* Atualizações de Firmware
-* Segmentação de Rede
-* Políticas de Segurança
+3. Ataques a Dispositivos IoT
+  * Atualizações de Firmware
+  * Segmentação de Rede
+  * Políticas de Segurança
 Manter os dispositivos IoT atualizados  com as últimas correções de segurança e patches de firmware é de suma importância, por corrigir as vulnerabilidades e melhorar a segurança global, junto com a implementação robusta, por meio de senhas fortes ou metódos multifatores dificultando a entrada de invasores. Firewall baseado em rede é também uma técnia válida, pois protege os dados assim que os mesmo entram na rede, permitindo também monitorar e bloquear o tráfego fora de sua VPN, muito útil principalmente em dispositivos M2M que possuem capacidade de processamento limitada.
 
 Parte dos desafios encontrados, quanto ao assunto de segurança em dispositivos IoT se deve as particularidades únicas de cada ecossistema, visto a grande variedade de dispositivos, impossibilitando a criação de uma solução de forma universal. Além disto, muitos dos dispositivos são compactos e movéis, assim têm maiores limitações quanto a utilização de energia, capacidade de processamento  e também armanezamento, o que faz necessário soluções de segurança que além de eficazes sejam otimizadas, para não comprometer o desempenho.
