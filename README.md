@@ -50,7 +50,10 @@ Parte dos desafios encontrados, quanto ao assunto de segurança em dispositivos 
 
 # *Referências*
 [1] DE OLIVEIRA, Nairobi Spiecker et al. Segurança da informaçao para internet das coisas (iot): uma abordagem sobre a lei geral de proteçao de dados (lgpd). Revista Eletrônica de Iniciação Científica em Computação, v. 17, n. 4, 2019.
+
 [2] CARVALHO, André Ferreira Almeida de; SANTOS, Christyan Matteus Lima; GONÇALVES, Lucas Vaz. Segurança em IoT. 2022.
 [3] ABRANET. Ataques a disposiftivos da Internet das Coisas (IoT) crescem 41%. ABRANET. 24/04/2023. Disponível em: https://www.abranet.org.br/Noticias/Ataques-a-dispositivos-da-internet-das-coisas-(IoT)-crescem-41%25-4300.html? Acesso em: 16 jan. 2024.
+
 [4] Carlos Campo. O que é Segurança em IoT? Riscos, Exemplos e Soluções. EMNIFY. Disponível em: https://www.emnify.com/pt-br/glossario-iot/seguranca-iot#:~:text=Falta%20de%20criptografia&text=Muitos%20dispositivos%20IoT%20n%C3%A3o%20criptografam,transmitidas%20para%20e%20do%20dispositivo.. Acesso em: 16 jan. 2024.
+
 [5] DE OLIVEIRA, Nairobi Spiecker et al. Segurança da informaçao para internet das coisas (iot): uma abordagem sobre a lei geral de proteçao de dados (lgpd). Revista Eletrônica de Iniciação Científica em Computação, v. 17, n. 4, 2019.
