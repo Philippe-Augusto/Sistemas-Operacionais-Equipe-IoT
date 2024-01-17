@@ -6,13 +6,13 @@ Integrantes:
 
 PHILIPPE AUGUSTO MONTEIRO SILVA - 202203529
 
-JOAO FELIPE PERES LIMA
+JOAO FELIPE PERES LIMA - 
 
-FABRICIO SILVA DIAS
+FABRICIO SILVA DIAS - 
 
-FILIPE AUGUSTO LIMA
+FILIPE AUGUSTO LIMA SILVA - 202203508
 
-GUILHERME FERNANDES
+GUILHERME PEREIRA FERNANDES - 202203510
 
 # *Introdução*
 A Internet das Coisas(IoT) ou "Internet of Things" é um conceito abrangente, criado por Kevin Ashton, piorneiro tecnológico britânico, em 1999 e a comunicação entre objetos físicos, por meio da internet, com objetivo de coletar, transmitir ou trocar dados teve início em 1990 por meio da Internet Toaster criada por John Romkey.
