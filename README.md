@@ -31,16 +31,16 @@ Todo dispositivo conectado à internet está vulnerável a ataques cibernéticos
 * Ataques ao Sistema: Foco em comprometer a integridade do sistema ou sua disponibilidade (Ataque de Negação de Serviço(DoS), Ataques de Força Bruta, Injeção de Código(SQL, XSS)).
 * Ataques a Dispositivo IoT: Foco em ter acesso/controle sobre um dispositivo conectado(Exploração de vulnerabilidade em dispositivo IoT).
 Para lidar com os ataques cibernéticos aliados a vulnerabilidade do sistema, têm-se os seguintes mecanismos:
-## *Ataques ao Sistemas*
+## Ataques ao Sistemas
 * Firewalls
 * Sistema de Detecção de Instrusões(IDS)
 * Sistemas de Prevenção de Intrusões
 Esses mecanismo são mais utilizados na tentativa de prevenção dos ataques, atualizações em vulnerabilidades conhecidas e monitoramento  contínuo são também medidas válidas.
-## *Ataques por Engenharia Social*
+## Ataques por Engenharia Social
 * Filtros de E-mail
 * Software Anti-Virus
 Ressalta-se também o treinamento de usuários para reconhecer e evitar ataques de pishing
-## *Ataques a Dispositivos IoT*
+## Ataques a Dispositivos IoT
 * Atualizações de Firmware
 * Segmentação de Rede
 * Políticas de Segurança
